@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ✨ Full Stack Realtime Chat App ✨
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
@@ -40,3 +41,7 @@ npm run build
 ```shell
 npm start
 ```
+=======
+# chat-app
+A real-time chat application built with Node.js, Express.js, MongoDB, and WebSocket/Socket.IO, enabling users to connect, communicate, and collaborate instantly.
+>>>>>>> 4a6eaec1d1142e156f82bb882ae38a373ada7791
