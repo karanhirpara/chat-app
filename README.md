@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #  Full Stack Realtime Chat App 
 A real-time chat application built using the MERN stack (MongoDB, Express.js, React, Node.js) that enables users to communicate instantly with secure authentication and WebSocket-based live messaging.
 Highlights:
